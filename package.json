@@ -1,0 +1,21 @@
+{
+  "name": "get-time",
+  "version": "1.0.0",
+  "description": "get Time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robindeleu/get-time.git"
+  },
+  "keywords": [],
+  "author": "Robin Deleu (https://github.com/robindeleu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robindeleu/get-time/issues"
+  },
+  "homepage": "https://github.com/robindeleu/get-time#readme"
+}
