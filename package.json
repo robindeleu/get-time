@@ -1,5 +1,5 @@
 {
-  "name": "get-timeStamp",
+  "name": "get-formatted-time",
   "version": "1.0.0",
   "description": "get Time",
   "main": "index.js",
