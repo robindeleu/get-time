@@ -1,5 +1,5 @@
 {
-  "name": "get-time",
+  "name": "get-timeStamp",
   "version": "1.0.0",
   "description": "get Time",
   "main": "index.js",
